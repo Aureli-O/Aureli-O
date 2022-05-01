@@ -2,7 +2,7 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 ### Formação e Curisosidades:
-- 🔭 Atualmente estou cursndo Ciências da Computação
+- 🔭 Atualmente estou cursando Ciências da Computação
 - ⚡ Curiosidade: gosto de cuidar da minha saúde e de sempre evoluir meus conhecimentos.
 
 ### Contatos:
